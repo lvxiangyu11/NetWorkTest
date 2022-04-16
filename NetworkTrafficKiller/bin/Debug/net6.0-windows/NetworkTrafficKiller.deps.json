@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NetworkTrafficKiller/1.0.0": {
+        "runtime": {
+          "NetworkTrafficKiller.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkTrafficKiller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

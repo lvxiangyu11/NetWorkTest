@@ -1,0 +1,17 @@
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\bin\Release\net6.0-windows\NetworkTrafficKiller.exe
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\bin\Release\net6.0-windows\NetworkTrafficKiller.deps.json
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\bin\Release\net6.0-windows\NetworkTrafficKiller.runtimeconfig.json
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\bin\Release\net6.0-windows\NetworkTrafficKiller.dll
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\bin\Release\net6.0-windows\NetworkTrafficKiller.pdb
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.csproj.AssemblyReference.cache
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.Form1.resources
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.csproj.GenerateResource.cache
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.AssemblyInfoInputs.cache
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.AssemblyInfo.cs
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.csproj.CoreCompileInputs.cache
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.dll
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\refint\NetworkTrafficKiller.dll
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.pdb
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\NetworkTrafficKiller.genruntimeconfig.cache
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net6.0-windows\ref\NetworkTrafficKiller.dll

@@ -1,0 +1,7 @@
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net5.0-windows\NetworkTrafficKiller.csproj.AssemblyReference.cache
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net5.0-windows\NetworkTrafficKiller.Form1.resources
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net5.0-windows\NetworkTrafficKiller.csproj.GenerateResource.cache
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net5.0-windows\NetworkTrafficKiller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net5.0-windows\NetworkTrafficKiller.AssemblyInfoInputs.cache
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net5.0-windows\NetworkTrafficKiller.AssemblyInfo.cs
+C:\Users\63005\source\repos\NetworkTrafficKiller\NetworkTrafficKiller\obj\Release\net5.0-windows\NetworkTrafficKiller.csproj.CoreCompileInputs.cache
